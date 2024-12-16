@@ -1,4 +1,4 @@
-# php-native-dashboard
+# Dashboard Admin Native
 
 ## Features
 *  Login Admin
@@ -6,14 +6,6 @@
 *  Tambah/Edit/Hapus Mahasiswa
 *  Tambah/Edit/Hapus Mata Kuliah
 *  Tambah/Edit/Hapus Nilai Mata Kuliah
-
-## 📸 Demo Web
-<pre>
-<img src="data/demo/login-page.png" width="1200">
-<img src="data/demo/dashboard.png" width="1200">
-<img src="data/demo/add-data.png" width="1200"> 
-<img src="data/demo/view-data.png" width="1200">
-</pre>
 
 ## 📁 Direktori
     # Root Project
