@@ -20,7 +20,7 @@ $result = mysqli_query($connection, "SELECT * FROM matakuliah");
                 <tr class="text-center">
                   <th>No</th>
                   <th>Kode Matkul</th>
-                  <th>Nama Matakuliah</th>
+                  <th>Nama Mata Kuliah</th>
                   <th>SKS</th>
                   <th style="width: 150">Aksi</th>
                 </tr>

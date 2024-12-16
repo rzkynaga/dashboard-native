@@ -21,6 +21,7 @@ $result = mysqli_query($connection, "SELECT * FROM nilai");
                   <th>No</th>
                   <th>NIM</th>
                   <th>Kode Mata Kuliah</th>
+                  <th>Nama Mata Kuliah</th>
                   <th>Semester</th>
                   <th>Nilai</th>
                   <th style="width: 150">Aksi</th>
@@ -37,6 +38,7 @@ $result = mysqli_query($connection, "SELECT * FROM nilai");
                     <td><?= $no ?></td>
                     <td><?= $data['nim'] ?></td>
                     <td><?= $data['kode_matkul'] ?></td>
+                    <td><?= $data['nama_matkul'] ?></td>
                     <td><?= $data['semester'] ?></td>
                     <td><?= $data['nilai'] ?></td>
                     <td>
