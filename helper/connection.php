@@ -2,6 +2,6 @@
 $dbhost = "localhost";
 $dbusername = "root";
 $dbpassword = "";
-$dbname = "stmik_ids";
+$dbname = "ikjoen-native";
 
 $connection = mysqli_connect($dbhost, $dbusername, $dbpassword,  $dbname);

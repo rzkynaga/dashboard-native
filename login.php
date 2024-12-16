@@ -88,7 +88,7 @@ if (isset($_POST['submit'])) {
               </div>
             </div>
             <div class="simple-footer">
-              Copyright &copy; Heri Hermawan 2021
+              Copyright &copy; Moh Rizky Sinaga 2024
             </div>
           </div>
         </div>
