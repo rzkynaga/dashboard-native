@@ -1,5 +1,7 @@
 # Dashboard Admin Native
 
+> **Catatan:** ini proyek belajar dan tidak untuk produksi. Kode ini belum memakai prepared statement dan password belum di-hash, jadi rawan SQL injection.
+
 ## Features
 *  Login Admin
 *  Tambah/Edit/Hapus Dosen
